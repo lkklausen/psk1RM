@@ -170,7 +170,7 @@ fig.update_layout(
     template="plotly_dark"
 )
 
-st.plotly_chart(fig, width='stretch')
+st.plotly_chart(fig, use_container_width=True)
 
 # --- DETAILED DATA TABLE ---
 with st.expander("Sammenlign alle formler"):
