@@ -1,2 +1,2 @@
 # psk1RM
-1RM caluculator using streamlit
+1RM caluculator using streamlit (danish)
